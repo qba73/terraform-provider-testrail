@@ -1,2 +1,2 @@
 # terraform-provider-testrail
-Terraform provider for TestRail
+Terraform provider for TestRail Server
