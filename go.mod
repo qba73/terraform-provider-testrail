@@ -1,3 +1,4 @@
 module github.com/qba73/terraform-provider-testrail
 
-go 1.17
+go 1.18
+
